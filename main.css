@@ -67,3 +67,59 @@ li {
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
 }
+
+.name {
+	width: 400px;
+	height: 50px;
+	background-color: #273a71;
+	border: none;
+	border-radius: 20px;
+	font-size: 18px;
+	color: #ccc;
+	outline: none;
+	text-align: center;
+}
+.email {
+	width: 600px;
+	height: 50px;
+	background-color: #273a71;
+	border: none;
+	border-radius: 20px;
+	font-size: 18px;
+	color: #ccc;
+	outline: none;
+	text-align: center;
+}
+.form {
+	text-align: center;
+	margin-top: 100px;
+}
+.message {
+	width: 1000px;
+	height: 200px;
+	background-color: #273a71;
+	border: none;
+	border-radius: 20px;
+	font-size: 18px;
+	color: #ccc;
+	outline: none;
+	margin-top: 50px;
+	box-sizing: border-box;
+	padding: 10px 10px;
+}
+label {
+	font-size: 20px;
+	color: #fff;
+	margin-top: 100px;
+
+}
+.btn {
+	width: 200px;
+	height: 50px;
+	margin-top: 50px;
+	border-radius: 10px;
+	border: none;
+	background-color: #4A5BB3;
+	box-shadow: 2px 2px 4px 0 black;
+	color: #fff;
+}
